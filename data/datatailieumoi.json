@@ -1,0 +1,139 @@
+[
+  {
+      "tenSach": "Đắc nhân tâm",
+      "tacGia": "Dale Carnegie",
+      "loaiSach": "Văn học",
+      "motavatly": "100 trang , 25*20cm",
+      "ngonNgu": "Tiếng Việt",
+      "gia": "200.000 đ",
+      "soLuong": "45",
+      "moTa" : "Đắc Nhân Tâm là một tác phẩm kinh điển về phát triển bản thân và giao tiếp giúp độc giả khám phá những nguyên tắc cơ bản để tạo ra mối quan hệ tích cực, thành công trong công việc và cuộc sống. Tác giả Dale Carnegie giới thiệu những kỹ thuật thực hành thông qua câu chuyện, ví dụ thực tế, và những lời khuyên hữu ích để xây dựng mối quan hệ mạnh mẽ và đạt được sự thành công cá nhân.",
+        
+      "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741533789224960/Alan_Walker_-_Sing_Me_To_SleepMP3_160K.mp3",
+      "id": 0,
+      "links": {
+          "images": [
+              {
+                  "url": "https://i.pinimg.com/736x/1c/22/df/1c22df7132ad8f1358688b23831e9eaf.jpg"
+              },
+              {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a"
+              }
+          ]
+      }
+  },
+  {
+      "tenSach": "Nhà giả kim",
+      "tacGia": "Paulo Coelho",
+      "loaiSach": "Tâm lý và sức khỏe tinh thần",
+      "ngonNgu": "Tiếng Việt",
+      "gia": "200.000 đ",
+      "soLuong": "45",
+      "moTa" : "Nhà Giả Kim là một câu chuyện kỳ bí xoay quanh cuộc hành trình của Santiago, một người chăn cừu trẻ, trên đường tìm kiếm ý nghĩa thực sự của cuộc sống và đỉnh cao của định mệnh. Nhờ sự hướng dẫn của một Alchemist (Nhà Giả Kim), Santiago học được về sức mạnh của giấc mơ, lòng tin, và khả năng tự do cá nhân.",
+
+      "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741536591806484/Alan_Walker_-_Fade_NCS_ReleaseMP3_160K.mp3",
+      "id": 1,
+      "links": {
+          "images": [
+              {
+                  "url": "https://i.pinimg.com/564x/d6/fe/7a/d6fe7a345fae0de4a2d9e86d1a181c62.jpg"
+              },
+              {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a"
+              }
+          ]
+      }
+  },
+  {
+      "tenSach": "Bố già",
+      "tacGia": "Mario Puzo",
+      "loaiSach": "Hình sự",
+      "motavatly": "100 trang , 25*20cm",
+      "ngonNgu": "Tiếng Việt",
+      "gia": "200.000 đ",
+      "soLuong": "45",
+      "moTa" : "Bố Già là một tác phẩm nổi tiếng của Mario Puzo, mô tả cuộc sống và hoạt động của gia đình mafia Corleone ở Mỹ. Cuốn sách theo dõi sự thăng trầm của Don Vito Corleone, Bố Già, người có sự quyết đoán và tầm ảnh hưởng lớn trong thế giới tội phạm. Đây không chỉ là một câu chuyện về tội ác và âm mưu, mà còn là một phản ánh sâu sắc về quyền lực, gia đình và nhân tâm.",
+
+      "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741544149549096/Andromedik_-_SHE_NCS_ReleaseMP3_160K.mp3",
+      "id": 2,
+      "links": {
+          "images": [
+              {
+                  "url": "https://i.pinimg.com/564x/4f/d0/8a/4fd08a15c9bda147ef4e90687a5d194a.jpg"
+              },
+              {
+                  "url": "https://i.scdn.co/image/ab67616d0000b2737b8d8ca1a8e14506c8f35233"
+              }
+          ]
+      }
+  },
+  {
+      "tenSach": "Truyện Kiều",
+      "tacGia": "Nguyễn Du",
+      "loaiSach": "Khoa học xã hội",
+      "motavatly": "100 trang , 25*20cm",
+      "ngonNgu": "Tiếng Việt",
+      "gia": "200.000 đ",
+      "soLuong": "45",
+      "moTa" : "Truyện Kiều là một tác phẩm văn học kinh điển của Việt Nam, được sáng tác bởi nhà thơ Nguyễn Du. Tác phẩm kể về cuộc đời và số phận bi đại của Kiều, một cô gái xinh đẹp, tài năng, nhưng phải trải qua nhiều thử thách và bi kịch trong cuộc sống. Truyện Kiều không chỉ là một tác phẩm nghệ thuật xuất sắc, mà còn là một tác phẩm phê phán xã hội và nhân bản nghệ thuật.",
+
+      "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741547203002389/Ascence_-_About_You_NCS_ReleaseMP3_160K.mp3",
+      "id": 3,
+      "links": {
+          "images": [
+              {
+                  "url": "https://i.pinimg.com/564x/6a/81/c3/6a81c3d24a73711e02ba8593c067bccf.jpg"
+              },
+              {
+                  "url": "https://i.scdn.co/image/ab67616d0000b27335ca35166aba974dd2dd29a2"
+              }
+          ]
+      }
+  },
+  {
+      "tenSach": "Thần thoại",
+      "tacGia": "Người Hy Lạp cổ đại (Truyền thống ghi danh là Homer)",
+      "loaiSach": "Tp.Hồ Chí Minh : Trẻ., 2023",
+      "motavatly": "100 trang , 25*20cm",
+      "ngonNgu": "Tiếng Việt",
+      "gia": "200.000 đ",
+      "soLuong": "45",
+      "moTa" : "Thần Thoại là một tuyển tập các câu chuyện thần thoại của người Hy Lạp cổ đại, chủ yếu tập trung vào các vị thần và anh hùng. Tác phẩm mô tả sự sáng tạo của thế giới, nguồn gốc của thần linh, và những cuộc phiêu lưu hùng vĩ của các anh hùng như Achilles, Odysseus, Hercules, và nhiều nhân vật nổi tiếng khác. Thần thoại không chỉ là một bộ sưu tập truyền thống, mà còn là nguồn tư liệu quan trọng để hiểu về tâm hồn và văn hóa Hy Lạp cổ đại.",
+
+      "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741549177995264/Cartoon_-_On___On_feat._Daniel_Levi_NCS_ReleaseMP3_160K.mp3",
+      "id": 4,
+      "links": {
+          "images": [
+              {
+                  "url": "https://i.pinimg.com/564x/31/b8/4f/31b84fc961df61384191222cf268b054.jpg"
+              },
+              {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273d2aaf635815c265aa1ecdecc"
+              }
+          ]
+      }
+  },
+  {
+      "tenSach": "Dế mèn phiêu lưu ký",
+      "tacGia": "Tô Hoài",
+      "loaiSach": "Truyện ngắn",
+      "motavatly": "100 trang , 25*20cm",
+      "ngonNgu": "Tiếng Việt",
+      "gia": "200.000 đ",
+      "soLuong": "45",
+      "moTa" : "Dế Mèn Phiêu Lưu Ký là một câu chuyện kỳ thú của nhà văn Tô Hoài, xoay quanh cuộc phiêu lưu của Dế Mèn, một chú dế nhỏ, trên hành trình tìm kiếm nghệ thuật sống và giá trị cuộc sống. Khi rời khỏi tổ, Dế Mèn đã trải qua nhiều khó khăn và gặp gỡ nhiều nhân vật động vật khác nhau, mỗi người mang theo một bài học riêng.",
+      
+      "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741580619284540/Clarx___Harddope_-_Castle_NCS_ReleaseMP3_160K.mp3",
+      "id": 5,
+      "links": {
+          "images": [
+              {
+                  "url": "https://i.pinimg.com/564x/4a/d3/5d/4ad35dbd74e364a6b0416cf29e24b88f.jpg"
+              },
+              {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96"
+              }
+          ]
+      }
+  }
+]
